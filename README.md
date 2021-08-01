@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaparuSreeLakshmi
 - 👀 I’m interested in software developer.
 - 🌱 I’m currently learning back end.
-- 💞️ I’m looking to collaborate on it companies.
+- 💞️ I’m looking to collaborate on IT companies.
 - 📫 How to reach me saparusree2000@gmail.com
 
 <!---
